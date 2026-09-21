@@ -38,5 +38,9 @@ The dashboard provides a business-focused view of sales, profit, units sold and 
 
 The purpose of this project was to practice transforming business data into an interactive dashboard and communicating financial performance through clear, business-focused visualisations.
 
-![Financial Performance Dashboard] (Screenshot of finished dashboard 2026-09-21.png)
+## Dashboard Preview
+
+![Financial Performance Dashboard](Screenshot%20of%20finished%20dashboard%202026-09-21.png)
+
+
 
